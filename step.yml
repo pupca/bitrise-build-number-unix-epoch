@@ -22,3 +22,8 @@ outputs:
       title: "Unix Epoch Time"
       summary: Unix Epoch time is a system for describing instants in time, defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC), Thursday, 1 January 1970, not counting leap seconds.
       description: Unix Epoch time is a system for describing instants in time, defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC), Thursday, 1 January 1970, not counting leap seconds
+  - DATE_NOW:
+    opts:
+      title: "Date now"
+      summary: "Current date in '%Y%m%d%H%M%S' format. Example '20161019064241'"
+      description: "Current date in '%Y%m%d%H%M%S' format. Example '20161019064241'"
